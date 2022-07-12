@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {},
+  "fmt": {
+    "options": {
+      "useTabs": false,
+      "indentWidth": 2
+    }
+  }
+}
