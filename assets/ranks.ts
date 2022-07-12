@@ -1,5 +1,5 @@
 /** Image URLs for old tier emblems. */
-export enum OldEmblem {
+export enum OldEmblems {
   Unranked = "https://i.imgur.com/0NvMghR.png",
   Bronze = "https://i.imgur.com/d22l4ph.png",
   Silver = "https://i.imgur.com/bTeiOwm.png",
