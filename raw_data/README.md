@@ -29,3 +29,7 @@ http://ddragon.leagueoflegends.com/cdn/12.13.1/data/en_US/profileicon.json
 ## Game Modes
 
 https://static.developer.riotgames.com/docs/lol/gameModes.json
+
+## Queues
+
+https://static.developer.riotgames.com/docs/lol/queues.json

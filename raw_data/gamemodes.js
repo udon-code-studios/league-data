@@ -1,5 +1,5 @@
 export default {
-  type: "gamemode",
+  type: "gamemodes",
   data: [
     {
       gameMode: "CLASSIC",
